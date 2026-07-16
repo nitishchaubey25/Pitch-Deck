@@ -1,0 +1,6 @@
+{
+  "name": "React Pitch Deck Generator",
+  "description": "A sleek, premium, and interactive pitch deck generator that uses the Gemini API or smart heuristic templates to build editable professional slides in multiple design themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
